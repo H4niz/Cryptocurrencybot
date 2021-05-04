@@ -12,3 +12,9 @@ Cấu hình các giá trị sau trong tệp tin cấu hình: ./configuration.con
 - _LOG_PATH_=
 - _TELEGRAM_BOT_TOKEN_=
 - _CHATID_=
+
+Cấu hình các giá trị sau trong tệp tin _variable.py để lựa chọn thị trường và các giá trị khoảng giá phù hợp trong lúc trade.
+- _MARKET_ = "BNB"
+- _RANGEPRICE_ = 1.3
+- _TIME_TO_DELAY_ = 10
+- _FUND_ = 0.07
